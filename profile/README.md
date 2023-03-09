@@ -1,4 +1,4 @@
-![Coding Kelps banner](https://github.com/coding-kelps/.github/blob/d85cc0e9e0168d02ec0eebbcea1ebdbd26b61fb9/img/coding-kelps-banner.png)
+![Coding Kelps banner](https://github.com/coding-kelps/.github/blob/main/img/coding-kelps-banner.png)
 
 # Coding Kelps
 Welcome to Coding Kelps!  
